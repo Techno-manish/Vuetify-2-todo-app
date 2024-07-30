@@ -1,0 +1,10 @@
+<template>
+  <div class="about pa-8">
+    <h1>Vuetify About Page</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, laboriosam, ab rem dolorum fugiat cumque quis corporis fugit repellat cupiditate itaque perferendis temporibus sapiente deserunt. Earum autem, corrupti a necessitatibus doloribus, est modi distinctio vero numquam sapiente ab voluptate voluptas aliquam praesentium, tenetur quas neque fugit eum similique? Minus, sint.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, laboriosam, ab rem dolorum fugiat cumque quis corporis fugit repellat cupiditate itaque perferendis temporibus sapiente deserunt. Earum autem, corrupti a necessitatibus doloribus, est modi distinctio vero numquam sapiente ab voluptate voluptas aliquam praesentium, tenetur quas neque fugit eum similique? Minus, sint.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, laboriosam, ab rem dolorum fugiat cumque quis corporis fugit repellat cupiditate itaque perferendis temporibus sapiente deserunt. Earum autem, corrupti a necessitatibus doloribus, est modi distinctio vero numquam sapiente ab voluptate voluptas aliquam praesentium, tenetur quas neque fugit eum similique? Minus, sint.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, laboriosam, ab rem dolorum fugiat cumque quis corporis fugit repellat cupiditate itaque perferendis temporibus sapiente deserunt. Earum autem, corrupti a necessitatibus doloribus, est modi distinctio vero numquam sapiente ab voluptate voluptas aliquam praesentium, tenetur quas neque fugit eum similique? Minus, sint.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, laboriosam, ab rem dolorum fugiat cumque quis corporis fugit repellat cupiditate itaque perferendis temporibus sapiente deserunt. Earum autem, corrupti a necessitatibus doloribus, est modi distinctio vero numquam sapiente ab voluptate voluptas aliquam praesentium, tenetur quas neque fugit eum similique? Minus, sint.</p>
+  </div>
+</template>
